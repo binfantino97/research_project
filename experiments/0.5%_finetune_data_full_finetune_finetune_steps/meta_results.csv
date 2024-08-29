@@ -1,0 +1,2 @@
+loss_values,training_steps,time_to_finetune,finetune_count,baseline_count,raw_counts,finetune_over_baseline_ratio,experiment_name,subset_size,num_rows,total_runtime,finetune_steps
+"[2.5913, 2.5859, 2.6309, 2.4266, 2.119, 1.9437, 1.7475, 1.5702, 1.3365, 1.3325, 1.2433]","[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",24.75,54,40,"{'Finetune completion': 54, 'Baseline completion': 40, ""'Baseline completion'"": 1}",1.35,0.5%_finetune_data_full_finetune_finetune_steps,0.005,88,966.64,11

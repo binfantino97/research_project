@@ -1,0 +1,839 @@
+system_prompt,user_prompt,post_tone,post_length,post_type,completion
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EduFuture Learning creates educational technology tools, such as e-learning platforms and virtual classrooms, to make learning more accessible and engaging. Their products are designed for students, teachers, and educational institutions. Since 2012, they have been a pioneer in integrating technology with education.
+2. product: VirtualLab Science Simulations: Simulations for virtual science experiments.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Professional
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Professional,1-3 sentences,Comparison Posts,"""Discover the future of science education with VirtualLab Science Simulations! Unlike traditional textbooks, our simulations bring the lab to life, allowing students to conduct virtual experiments and explore complex concepts in a safe and engaging environment. Compare our simulations to traditional teaching methods and experience the difference for yourself! #EduFuture #VirtualLab #ScienceSimulations"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: SoundSync Wireless Transmitter: Wireless transmitter for audio devices.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Professional
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Professional,4-6 sentences,Value Proposition Posts,"""Take your audio experience to the next level with SoundSync Wireless Transmitter from PureSound Audio! As a trusted name in the industry since 2012, we've crafted a wireless transmitter that delivers superior sound quality and seamless connectivity for professionals and audiophiles alike. Say goodbye to tangled cords and hello to freedom with our reliable and durable wireless solution. Upgrade your audio setup today and experience the difference PureSound Audio brings to the table."""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: CoolDry T-Shirts: T-shirts with moisture-wicking technology.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Professional
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Professional,1-3 sentences,Feature Highlight Posts,"""Stay cool and comfortable all day, every day! Introducing our CoolDry T-Shirts, featuring advanced moisture-wicking technology that keeps you dry and focused on your fitness goals. Upgrade your workout wardrobe with FitLife Apparel's premium performance tees #FitLifeApparel #CoolDryTShirts #FitnessClothing #MoistureWicking"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: BioLife Supplements produces natural health supplements, including vitamins, probiotics, and protein powders. Their products are aimed at supporting a healthy lifestyle with high-quality natural ingredients. Founded in 2015, they have established themselves as a trusted provider of natural health products.
+2. product: VisionGuard Lutein: Lutein supplement for eye health.
+3. post length: 1-3 sentences
+4. post type: Promotional Posts
+5. post tone: Professional
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Professional,1-3 sentences,Promotional Posts,"""Protect Your Vision with BioLife's VisionGuard Lutein! As a trusted provider of natural health products, BioLife Supplements is proud to introduce VisionGuard Lutein, a powerful lutein supplement designed to support eye health and reduce the risk of age-related macular degeneration. Try it today and see the difference for yourself! #BioLifeSupplements #VisionGuardLutein #EyeHealth"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: BioLife Supplements produces natural health supplements, including vitamins, probiotics, and protein powders. Their products are aimed at supporting a healthy lifestyle with high-quality natural ingredients. Founded in 2015, they have established themselves as a trusted provider of natural health products.
+2. product: MemorySharp Ginkgo Biloba: Ginkgo Biloba supplement for cognitive health.
+3. post length: 1-3 sentences
+4. post type: Announcement Posts
+5. post tone: Professional
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Professional,1-3 sentences,Announcement Posts,"""Exciting News! BioLife Supplements is proud to introduce MemorySharp Ginkgo Biloba, a powerful supplement designed to support cognitive health and sharp memory. With its high-quality Ginkgo Biloba extract, this natural formula helps maintain focus, concentration, and mental clarity. Try it today and unlock your full potential! #BioLifeSupplements #MemorySharp #GinkgoBiloba #CognitiveHealth"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EduFuture Learning creates educational technology tools, such as e-learning platforms and virtual classrooms, to make learning more accessible and engaging. Their products are designed for students, teachers, and educational institutions. Since 2012, they have been a pioneer in integrating technology with education.
+2. product: VirtualLab Science Simulations: Simulations for virtual science experiments.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Enthusiastic
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Enthusiastic,1-3 sentences,Comparison Posts,"""Ready to revolutionize your science lessons? Our VirtualLab Science Simulations outshine traditional lab equipment! With our simulations, students can conduct virtual experiments, explore complex concepts, and develop a deeper understanding of science - all while saving time, money, and resources #EduFuture #ScienceSimulations #EdTech"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: SoundSync Wireless Transmitter: Wireless transmitter for audio devices.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Enthusiastic
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Enthusiastic,4-6 sentences,Value Proposition Posts,"""Get ready to experience pure sonic bliss with SoundSync Wireless Transmitter from PureSound Audio! As audiophiles and professionals, you know that superior sound quality is non-negotiable. That's why we've crafted SoundSync to deliver seamless, lag-free audio transmission for your devices. Say goodbye to tangled cords and hello to wireless freedom! Upgrade your audio game with SoundSync and discover a whole new world of sound #PureSoundAudio #SoundSync #WirelessAudio #AudiophileApproved"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: CoolDry T-Shirts: T-shirts with moisture-wicking technology.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Enthusiastic
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Enthusiastic,1-3 sentences,Feature Highlight Posts,"""Get ready to sweat in style with our CoolDry T-Shirts! Our moisture-wicking technology keeps you dry and comfortable, while our trendy designs keep you looking fresh. Trust us, your fitness journey just got a whole lot cooler! #FitLifeApparel #CoolDryTShirts #FitnessClothing #ActiveLifestyle"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: BioLife Supplements produces natural health supplements, including vitamins, probiotics, and protein powders. Their products are aimed at supporting a healthy lifestyle with high-quality natural ingredients. Founded in 2015, they have established themselves as a trusted provider of natural health products.
+2. product: VisionGuard Lutein: Lutein supplement for eye health.
+3. post length: 1-3 sentences
+4. post type: Promotional Posts
+5. post tone: Enthusiastic
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Enthusiastic,1-3 sentences,Promotional Posts,"""Unlock Crystal-Clear Vision with VisionGuard Lutein! BioLife Supplements' latest innovation is here! Say goodbye to blurry vision and hello to a brighter, healthier you - try VisionGuard Lutein today and discover the power of natural eye health! #VisionGuard #Lutein #EyeHealth #BioLifeSupplements"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: BioLife Supplements produces natural health supplements, including vitamins, probiotics, and protein powders. Their products are aimed at supporting a healthy lifestyle with high-quality natural ingredients. Founded in 2015, they have established themselves as a trusted provider of natural health products.
+2. product: MemorySharp Ginkgo Biloba: Ginkgo Biloba supplement for cognitive health.
+3. post length: 1-3 sentences
+4. post type: Announcement Posts
+5. post tone: Enthusiastic
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Enthusiastic,1-3 sentences,Announcement Posts,"""EXCITING NEWS! BioLife Supplements is thrilled to introduce MemorySharp Ginkgo Biloba, a revolutionary supplement that boosts your cognitive health and sharpens your mind! Say goodbye to mental fogginess and hello to a sharper, more focused you!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EduFuture Learning creates educational technology tools, such as e-learning platforms and virtual classrooms, to make learning more accessible and engaging. Their products are designed for students, teachers, and educational institutions. Since 2012, they have been a pioneer in integrating technology with education.
+2. product: VirtualLab Science Simulations: Simulations for virtual science experiments.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Comparison Posts,"""Get ready to blow minds (and not just your own)! Our VirtualLab Science Simulations are like having a chemistry lab at your fingertips - minus the risk of accidental explosions. Compare our realistic, virtual experiments to traditional lab settings and see why we're the future of science education #EduFuture #VirtualLab #ScienceSimulations"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: SoundSync Wireless Transmitter: Wireless transmitter for audio devices.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Value Proposition Posts,"""Sync up with perfection! Introducing SoundSync Wireless Transmitter, the ultimate game-changer from PureSound Audio. Say goodbye to tangled cords and hello to seamless wireless audio streaming. Whether you're a music enthusiast or a professional looking to elevate your sound game, SoundSync's got you covered. Upgrade your audio experience with PureSound Audio - the trusted name in the industry since 2012!"" #PureSoundAudio #SoundSync #WirelessAudio #AudiophileApproved"
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: CoolDry T-Shirts: T-shirts with moisture-wicking technology.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Feature Highlight Posts,"""Sweat smarter, not harder! Introducing our CoolDry T-Shirts, featuring moisture-wicking tech that keeps you dry and comfortable during even the toughest workouts. Stay fresh, stay fly, and stay FitLife!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: BioLife Supplements produces natural health supplements, including vitamins, probiotics, and protein powders. Their products are aimed at supporting a healthy lifestyle with high-quality natural ingredients. Founded in 2015, they have established themselves as a trusted provider of natural health products.
+2. product: VisionGuard Lutein: Lutein supplement for eye health.
+3. post length: 1-3 sentences
+4. post type: Promotional Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Promotional Posts,"""Focus on the bright side! Introducing VisionGuard Lutein, the ultimate eye health supplement from BioLife Supplements! With its potent blend of lutein and antioxidants, you'll be seeing the world in a whole new light #EyeHealth #VisionGuard #BioLifeSupplements"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: BioLife Supplements produces natural health supplements, including vitamins, probiotics, and protein powders. Their products are aimed at supporting a healthy lifestyle with high-quality natural ingredients. Founded in 2015, they have established themselves as a trusted provider of natural health products.
+2. product: MemorySharp Ginkgo Biloba: Ginkgo Biloba supplement for cognitive health.
+3. post length: 1-3 sentences
+4. post type: Announcement Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Announcement Posts,"""Get ready to level up your brain game! Introducing MemorySharp Ginkgo Biloba, the ultimate cognitive health supplement from BioLife Supplements! Boost your focus, clarity, and memory with our high-quality Ginkgo Biloba extract. Try it out and unlock your full potential!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EduFuture Learning creates educational technology tools, such as e-learning platforms and virtual classrooms, to make learning more accessible and engaging. Their products are designed for students, teachers, and educational institutions. Since 2012, they have been a pioneer in integrating technology with education.
+2. product: VirtualLab Science Simulations: Simulations for virtual science experiments.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Comparison Posts,"""Take your science lessons to the next level! With VirtualLab Science Simulations, your students can conduct virtual experiments and explore the wonders of science in a safe and controlled environment. Compare this to traditional lab settings, where equipment and safety concerns can limit your students' learning experience. #EduFutureLearning #VirtualLab #ScienceSimulations"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: SoundSync Wireless Transmitter: Wireless transmitter for audio devices.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,4-6 sentences,Value Proposition Posts,"""Unlock the full potential of your audio experience with PureSound Audio's SoundSync Wireless Transmitter! As a pioneer in the audio equipment industry since 2012, we've crafted a wireless solution that elevates your sound to new heights. With crystal-clear transmission and seamless connectivity, you'll be transported to a world of pure sound. Join the ranks of audiophiles and professionals who demand the best - upgrade your audio game with SoundSync today! #PureSoundAudio #SoundSync #WirelessAudio #AudioEquipment"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: CoolDry T-Shirts: T-shirts with moisture-wicking technology.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Feature Highlight Posts,"""Unleash Your Best Self with FitLife Apparel's CoolDry T-Shirts!
+
+Say goodbye to sweat-soaked shirts and hello to comfort and confidence with our moisture-wicking CoolDry T-Shirts. Designed for high-performance fitness and everyday wear, our advanced fabric technology keeps you dry and focused on your goals. #FitLifeApparel #CoolDryTShirts #FitnessMotivation"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: BioLife Supplements produces natural health supplements, including vitamins, probiotics, and protein powders. Their products are aimed at supporting a healthy lifestyle with high-quality natural ingredients. Founded in 2015, they have established themselves as a trusted provider of natural health products.
+2. product: VisionGuard Lutein: Lutein supplement for eye health.
+3. post length: 1-3 sentences
+4. post type: Promotional Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Promotional Posts,"""Unlock the power of clear vision with VisionGuard Lutein! As a valued part of BioLife Supplements' commitment to natural health, this potent lutein supplement supports eye health and helps you see the world in all its clarity. Try it today and discover a brighter tomorrow! #BioLifeSupplements #VisionGuardLutein #EyeHealth #NaturalSupplements"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: BioLife Supplements produces natural health supplements, including vitamins, probiotics, and protein powders. Their products are aimed at supporting a healthy lifestyle with high-quality natural ingredients. Founded in 2015, they have established themselves as a trusted provider of natural health products.
+2. product: MemorySharp Ginkgo Biloba: Ginkgo Biloba supplement for cognitive health.
+3. post length: 1-3 sentences
+4. post type: Announcement Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Announcement Posts,"""Unlock the power of a sharper mind! Introducing MemorySharp Ginkgo Biloba, our latest natural supplement designed to support cognitive health and boost mental clarity. As a trusted leader in the natural health industry, we're committed to helping you live your best life - start sharpening your focus today! #MemorySharp #GinkgoBiloba #CognitiveHealth"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EduFuture Learning creates educational technology tools, such as e-learning platforms and virtual classrooms, to make learning more accessible and engaging. Their products are designed for students, teachers, and educational institutions. Since 2012, they have been a pioneer in integrating technology with education.
+2. product: VirtualLab Science Simulations: Simulations for virtual science experiments.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Trustworthy
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Trustworthy,1-3 sentences,Comparison Posts,"""Upgrade your science lessons with VirtualLab Science Simulations! Unlike traditional textbooks, our simulations bring science to life with interactive, real-world experiments. Compare the difference for yourself - traditional teaching methods vs. immersive, virtual labs. Choose EduFuture Learning for a more engaging and effective learning experience."" #EduFutureLearning #VirtualLab #ScienceSimulations"
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: SoundSync Wireless Transmitter: Wireless transmitter for audio devices.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Trustworthy
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Trustworthy,4-6 sentences,Value Proposition Posts,"""Upgrade your audio game with PureSound Audio's SoundSync Wireless Transmitter! As a trusted name in the industry since 2012, we're committed to delivering exceptional sound quality. Our wireless transmitter ensures seamless connectivity and crystal-clear audio for your devices. Whether you're a professional musician or an audiophile, SoundSync has got you covered. Experience the difference for yourself and discover a world of pure sound."" #PureSoundAudio #SoundSync #WirelessTransmitter #AudioEquipment #SoundQualityMatters"
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: CoolDry T-Shirts: T-shirts with moisture-wicking technology.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Trustworthy
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Trustworthy,1-3 sentences,Feature Highlight Posts,"""Stay cool and comfortable all day long with our CoolDry T-Shirts! Our moisture-wicking technology ensures you stay dry and focused on your fitness goals. Trust FitLife Apparel for high-performance gear that keeps up with your active lifestyle #FitLifeApparel #CoolDryTShirts #FitnessClothing"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: BioLife Supplements produces natural health supplements, including vitamins, probiotics, and protein powders. Their products are aimed at supporting a healthy lifestyle with high-quality natural ingredients. Founded in 2015, they have established themselves as a trusted provider of natural health products.
+2. product: VisionGuard Lutein: Lutein supplement for eye health.
+3. post length: 1-3 sentences
+4. post type: Promotional Posts
+5. post tone: Trustworthy
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Trustworthy,1-3 sentences,Promotional Posts,"""Protect Your Vision with BioLife Supplements! Introducing VisionGuard Lutein, our powerful lutein supplement that supports eye health and reduces the risk of age-related macular degeneration. Trust BioLife's high-quality, natural ingredients to keep your eyes healthy and strong #VisionGuard #Lutein #EyeHealth #NaturalSupplements"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: BioLife Supplements produces natural health supplements, including vitamins, probiotics, and protein powders. Their products are aimed at supporting a healthy lifestyle with high-quality natural ingredients. Founded in 2015, they have established themselves as a trusted provider of natural health products.
+2. product: MemorySharp Ginkgo Biloba: Ginkgo Biloba supplement for cognitive health.
+3. post length: 1-3 sentences
+4. post type: Announcement Posts
+5. post tone: Trustworthy
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Trustworthy,1-3 sentences,Announcement Posts,"""Exciting News! Introducing MemorySharp Ginkgo Biloba, the latest addition to our family of natural health supplements! As a trusted provider of high-quality products, we're proud to offer this powerful Ginkgo Biloba supplement to support cognitive health and mental clarity. #BioLifeSupplements #MemorySharp #GinkgoBiloba"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: Gourmet Delights offers high-quality, gourmet food products such as artisanal cheeses, chocolates, and specialty oils. Their focus is on delivering exceptional taste and quality for food enthusiasts and gourmet chefs. Established in 2015, they have quickly gained a reputation for excellence in the food industry.
+2. product: Heritage Breed Pork Sausages: Sausages made from heritage breed pork.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Enthusiastic
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Enthusiastic,1-3 sentences,Comparison Posts,"""Say goodbye to bland, mass-produced sausages and hello to the rich, unadulterated flavor of Heritage Breed Pork Sausages from Gourmet Delights! Compare these artisanal sausages to the usual suspects and taste the difference for yourself - our heritage breed pork is raised without antibiotics or hormones, ensuring a more nuanced, complex flavor profile that will elevate your cooking game #GourmetDelights #HeritageBreedPork #ArtisanalSausages"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: HomeHaven Furnishings sells stylish and affordable furniture for homes, including living room sets, bedroom furniture, and home décor. Their designs cater to both modern and classic tastes. Founded in 2013, they have become a trusted name in the home furnishings market.
+2. product: OfficePro Desk: Desk designed for professional use.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Enthusiastic
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Enthusiastic,1-3 sentences,Feature Highlight Posts,"""Get ready to level up your workspace with OfficePro Desk from HomeHaven Furnishings! This stylish and ergonomic desk is designed for professional use, perfect for remote workers, entrepreneurs, and anyone who wants to stay productive and focused. Say goodbye to cluttered desks and hello to a more organized you! #HomeHavenFurnishings #OfficeProDesk #ProductivityHacks"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureBeauty Cosmetics offers natural and eco-friendly beauty products, including skincare, makeup, and hair care. They emphasize using sustainable ingredients to enhance natural beauty. Founded in 2015, the company is dedicated to promoting sustainability in the beauty industry.
+2. product: PureProtect Sunscreen: Sunscreen with broad-spectrum protection.
+3. post length: 1-3 sentences
+4. post type: Question Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Question Posts,"""Sunscreen conundrum: Are you tired of slathering on chemical-laden lotions that leave your skin feeling like the Sahara desert? Introducing PureProtect Sunscreen, the eco-friendly solution that's got your back (and skin) protected #PureBeauty #SustainableSunscreen #NaturalBeauty"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: GeoCompass Navigation Device: Navigation device for geolocation.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Comparison Posts,"""Get lost in the right direction with GeoCompass! Compare it to your average GPS device and you'll find that our rugged navigation device is the ultimate companion for your next adventure. Waterproof, shockproof, and more reliable than your smartphone's compass #AdventureGear #GeoCompass #NavigateLikeAPro"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: HealthPro Pharmaceuticals develops and sells a wide range of pharmaceutical products, including prescription drugs, over-the-counter medications, and vaccines. They are committed to improving health and well-being through rigorous research and development. Established in 1980, they are recognized for their long-standing reputation in the industry.
+2. product: OsteoGuard Bone Health: Supplement to support bone density.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Feature Highlight Posts,"""Take control of your bone health with OsteoGuard Bone Health! As we age, our bones naturally weaken, but with OsteoGuard, you can support your bone density and maintain a strong, healthy body. Trust the experts at HealthPro Pharmaceuticals, pioneers in the industry since 1980, to help you achieve optimal well-being #OsteoGuard #BoneHealth #HealthProPharmaceuticals"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: TechNova Innovations designs and manufactures consumer electronics like smart home devices, wearables, and high-performance laptops. Their focus is on creating cutting-edge technology that enhances everyday life. Since 2010, they have become a leading name in innovative and user-friendly electronics.
+2. product: VistaVR Headset: Virtual reality headset for immersive experiences.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Professional
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Professional,4-6 sentences,Value Proposition Posts,"""Experience the future of entertainment and innovation with VistaVR Headset from TechNova Innovations! As a pioneer in consumer electronics, we've designed a virtual reality headset that transports you to new dimensions. With crystal-clear visuals and lifelike sound, immerse yourself in gaming, movies, and more. Upgrade your entertainment experience and discover a world beyond boundaries. Get ready to be amazed! #VistaVR #TechNovaInnovations #VirtualReality"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: ProStretch Yoga Pants: Yoga pants with optimal stretch.
+3. post length: 4-6 sentences
+4. post type: User-Generated Content Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,User-Generated Content Posts,"""Stretch your style and your limits with ProStretch Yoga Pants! Our friends at FitLife Apparel know a thing or two about comfortable, high-performance gear - and these babies deliver! With optimal stretch and a dash of sass, you'll be bending, twisting, and sweating in style. Check out the latest from FitLife Apparel and get ready to take your yoga practice to the next level! #FitLifeApparel #ProStretchYogaPants #YogaGoals"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EduFuture Learning creates educational technology tools, such as e-learning platforms and virtual classrooms, to make learning more accessible and engaging. Their products are designed for students, teachers, and educational institutions. Since 2012, they have been a pioneer in integrating technology with education.
+2. product: ChemLab Interactive Experiments: Interactive experiments for chemistry students.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Value Proposition Posts,"""Mixing molecules and magic! Introducing ChemLab Interactive Experiments, the ultimate game-changer for chemistry students! EduFuture Learning's latest innovation brings the lab to life, making complex concepts more accessible and fun. Say goodbye to dry textbooks and hello to hands-on experimentation! Get ready to ignite a passion for chemistry and unlock a world of possibilities with ChemLab Interactive Experiments #ChemLab #EduFuture #InteractiveLearning"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureBass High-Fidelity Speakers: Speakers with high-fidelity sound quality.
+3. post length: 4-6 sentences
+4. post type: Educational Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Educational Posts,"""Get ready to level up your sound game! At PureSound Audio, we're obsessed with delivering pure, unadulterated audio bliss. That's why we created the PureBass High-Fidelity Speakers - because we know that when it comes to sound, there's no room for compromise. With PureBass, you'll experience the kind of crystal-clear clarity that'll make you wonder how you ever settled for anything less. Upgrade your audio experience today and discover a whole new world of sound!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EduFuture Learning creates educational technology tools, such as e-learning platforms and virtual classrooms, to make learning more accessible and engaging. Their products are designed for students, teachers, and educational institutions. Since 2012, they have been a pioneer in integrating technology with education.
+2. product: LangLearn Language App: Language learning app with interactive lessons.
+3. post length: 4-6 sentences
+4. post type: Testimonial Posts
+5. post tone: Trustworthy
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Trustworthy,4-6 sentences,Testimonial Posts,"""I've been using LangLearn Language App with my students for a few weeks now, and the results are astonishing! The interactive lessons have increased their engagement and confidence in speaking. As a teacher, I appreciate how easy it is to track their progress and adjust the curriculum accordingly. LangLearn has genuinely improved our language learning experience. EduFuture Learning's commitment to innovative education is truly remarkable!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: BusinessPro Suits: Professional suits for business settings.
+3. post length: 7+ sentences
+4. post type: Storytelling Posts
+5. post tone: Professional
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Professional,7+ sentences,Storytelling Posts,"""As the world of business evolves, so must your wardrobe. That's why FashionForward is proud to introduce BusinessPro Suits, designed to help you make a lasting impression in any professional setting.
+
+Our team of expert designers has crafted each suit to exude confidence and sophistication, combining premium materials with a keen eye for detail. From crisp white shirts to tailored trousers, every element is carefully considered to ensure you look and feel your best.
+
+But it's not just about looking good - BusinessPro Suits are built to last, with durable fabrics and expert construction that will withstand the demands of a fast-paced career. Whether you're closing a deal or networking with industry leaders, our suits will help you present yourself with poise and professionalism.
+
+At FashionForward, we understand that dressing for success is just the beginning. That's why we're committed to empowering our customers to take control of their careers and make a lasting impact. With BusinessPro Suits, you'll be equipped to tackle any challenge that comes your way.
+
+Join the ranks of fashion-conscious professionals who demand the best. Try BusinessPro Suits today and discover a new level of confidence and style."""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: HiRes Audio Player: High-resolution audio player.
+3. post length: 7+ sentences
+4. post type: Interactive Posts
+5. post tone: Trustworthy
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Trustworthy,7+ sentences,Interactive Posts,"""Unlock the full potential of your music with PureSound Audio's HiRes Audio Player!
+
+As audiophiles, we know that music is more than just a collection of sounds - it's an emotional experience that requires precision and attention to detail. That's why we've designed the HiRes Audio Player to deliver the purest, most immersive sound possible.
+
+With its advanced digital-to-analog converter and proprietary noise-reduction technology, this player is capable of reproducing even the most subtle nuances in your music. Whether you're a music producer, DJ, or simply a music lover, you'll be amazed by the clarity and depth of sound.
+
+But don't just take our word for it! Try the HiRes Audio Player for yourself and experience the difference that high-resolution audio can make.
+
+Leave a comment below and let us know what you think of the HiRes Audio Player! Have you tried high-resolution audio before? What do you think sets it apart from standard audio?
+
+Share your thoughts and tag a friend who loves great music! #PureSoundAudio #HiResAudio #HighQualitySound #MusicLover #Audiophile"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureBeauty Cosmetics offers natural and eco-friendly beauty products, including skincare, makeup, and hair care. They emphasize using sustainable ingredients to enhance natural beauty. Founded in 2015, the company is dedicated to promoting sustainability in the beauty industry.
+2. product: SoothingAloe Gel: Aloe gel for soothing skin.
+3. post length: 7+ sentences
+4. post type: Storytelling Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,7+ sentences,Storytelling Posts,"""Ah, the eternal quest for glowing, radiant skin! You know the drill: endless scrolling through beauty blogs, trying out products, and still, your skin remains a mystery. But, what if I told you there's a secret to unlocking your skin's true potential? Introducing SoothingAloe Gel from PureBeauty Cosmetics! This magic potion is made with 100% natural aloe vera, carefully sourced to soothe even the most sensitive skin. No harsh chemicals, no artificial fragrances, just pure, unadulterated goodness. And the best part? It's cruelty-free, vegan-friendly, and eco-conscious! Treat your skin to a little TLC and join the PureBeauty movement. Get ready to glow, inside and out! #PureBeauty #SoothingAloeGel #NaturalBeauty #EcoFriendly #GlowUp"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: HealthPro Pharmaceuticals develops and sells a wide range of pharmaceutical products, including prescription drugs, over-the-counter medications, and vaccines. They are committed to improving health and well-being through rigorous research and development. Established in 1980, they are recognized for their long-standing reputation in the industry.
+2. product: DiabeCare Insulin Pump: Insulin pump for diabetes management.
+3. post length: 7+ sentences
+4. post type: Storytelling Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,7+ sentences,Storytelling Posts,"""Meet Maria, a 35-year-old mom who's been living with type 1 diabetes since childhood. For years, she struggled with the constant worry of managing her condition, from remembering to take medication to dealing with the emotional toll of living with a chronic illness. But everything changed when she discovered DiabeCare Insulin Pump, a revolutionary device that's changed the game for diabetes management. With its advanced technology and user-friendly design, Maria can now take control of her health like never before. No more worrying about needles or medication schedules - just a life free from the constraints of diabetes. Thanks to DiabeCare Insulin Pump, Maria can focus on what truly matters: her family, her friends, and her passions. Join the thousands of people who've already experienced the freedom and confidence that comes with using DiabeCare Insulin Pump. Learn more about this life-changing technology and start your journey to a healthier, happier you!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: Gourmet Delights offers high-quality, gourmet food products such as artisanal cheeses, chocolates, and specialty oils. Their focus is on delivering exceptional taste and quality for food enthusiasts and gourmet chefs. Established in 2015, they have quickly gained a reputation for excellence in the food industry.
+2. product: Mediterranean Sea Salt: Sea salt from the Mediterranean.
+3. post length: 7+ sentences
+4. post type: Storytelling Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,7+ sentences,Storytelling Posts,"""Escape to the Mediterranean...
+
+Imagine yourself standing on the sun-kissed shores of Greece, the warm breeze carrying the sweet scent of blooming olives. The sound of gentle waves crashing against the rocks, as the warm Mediterranean sun sets behind you. It's a moment of pure serenity, where the stresses of everyday life melt away.
+
+And now, bring that moment to your table with Gourmet Delights' Mediterranean Sea Salt! Harvested from the crystal-clear waters of the Mediterranean, this artisanal sea salt is infused with the subtle nuances of the region's rich history. With its delicate flavor and coarse texture, it's the perfect addition to your culinary creations.
+
+Whether you're a food enthusiast or a gourmet chef, Gourmet Delights' Mediterranean Sea Salt is sure to transport your taste buds to the Mediterranean coast. Try it today and discover a world of flavor and inspiration! #GourmetDelights #MediterraneanSeaSalt #Foodie #GourmetChefs #ArtisanalFood #FlavorInspiration"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 1-3 sentences
+4. post type: Promotional Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Promotional Posts,"""Level up your office attire with our ClassicFit Blazers! Because, let's face it, a good blazer can make even the most mundane Monday look like a million bucks #FashionForward #ClassicFit #ProfessionalChic"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 1-3 sentences
+4. post type: Promotional Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Promotional Posts,"""Get ready to crush your fitness goals with our new RunFast Running Shoes! Say goodbye to slow runs and hello to speed and comfort with our cutting-edge technology and trendy designs. Trust us, your feet (and your PBs) will thank you #FitLifeApparel #RunFast #FitnessMotivation"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 1-3 sentences
+4. post type: Promotional Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Promotional Posts,"""Unleash the power of pure sound! Introducing PureTone Earbuds, the latest innovation from PureSound Audio. Experience the thrill of crystal-clear audio that transports you to a world of sonic bliss. Get ready to elevate your music, podcasts, and conversations to new heights! #PureSoundAudio #PureToneEarbuds #SoundRevolution"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 1-3 sentences
+4. post type: Promotional Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Promotional Posts,"""Join the eco-revolution with EcoTech Solutions! Introducing EcoSmart Thermostats, the smart way to optimize your energy usage and reduce your carbon footprint. Upgrade your home or office today and be part of a sustainable future! #EcoTechSolutions #EcoSmartThermostats #Sustainability"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 1-3 sentences
+4. post type: Promotional Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Promotional Posts,"""Gear up for the ultimate adventure! Introducing the SolarCharge Portable Panel, the ultimate power-up for your outdoor escapades! Charge your devices on-the-go with this rugged, reliable, and ridiculously awesome portable solar panel #AdventureGearCo #SolarCharge #OutdoorAdventures"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 1-3 sentences
+4. post type: Question Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Question Posts,"""Blazer up, boss! Are you tired of dressing down for work? Our ClassicFit Blazers are here to help you level up your professional game, without sacrificing style. Get ready to turn heads! #FashionForward #ClassicFit #BlazerUp"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 1-3 sentences
+4. post type: Question Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Question Posts,"""Are you tired of sacrificing style for speed? Introducing RunFast Running Shoes from FitLife Apparel - the perfect blend of comfort and performance! #FitLifeApparel #RunFast #RunningShoes #Fitness"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 1-3 sentences
+4. post type: Question Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Question Posts,"""What's the secret to unlocking your full creative potential? Is it the right tools? Introducing PureTone Earbuds from PureSound Audio, engineered to deliver pure sound quality that ignites your passion and fuels your creativity. #PureSound #PureTone #SoundQualityMatters"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 1-3 sentences
+4. post type: Question Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Question Posts,"""Are you ready to revolutionize the way you think about energy consumption? Our EcoSmart Thermostats, powered by EcoTech Solutions, are changing the game with smart temperature control that optimizes energy usage and reduces your carbon footprint. Join the movement towards a more sustainable future!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 1-3 sentences
+4. post type: Question Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Question Posts,"""Ready to ditch the dead batteries and join the #SolarRevolution? Can you guess the most epic way to keep your devices charged on the go? Introducing the SolarCharge Portable Panel from AdventureGear Co. - the ultimate companion for your next adventure! #AdventureGear #SolarPower #GoOffGrid"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Feature Highlight Posts,"""Blazer up, fashionistas! Introducing our ClassicFit Blazers - the ultimate power move for your professional wardrobe. Durable, stylish, and ready to elevate your workwear game, get ready to turn heads with FashionForward's latest must-have!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Feature Highlight Posts,"""Kicking it up a notch with our RunFast Running Shoes! Say goodbye to sluggish strides and hello to speed and comfort with our latest innovation from FitLife Apparel. Get ready to crush your next 5K (or couch-to-couch sprint) in style #FitLifeApparel #RunFast #FitnessMotivation"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Feature Highlight Posts,"""Unlock the full potential of your music with PureSound Audio's PureTone Earbuds! With crystal-clear sound and sleek design, these earbuds will transport you to a world of sonic bliss. Experience the purest sound on the planet with PureTone Earbuds #PureSoundAudio #PureToneEarbuds #SoundQualityMatters"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Feature Highlight Posts,"""Unlock a greener future with EcoSmart Thermostats from EcoTech Solutions! These intelligent thermostats optimize energy usage, reducing your carbon footprint and saving you money. Join the eco-revolution and experience the power of innovation! #EcoTechSolutions #EcoSmartThermostats #SustainableLiving"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 1-3 sentences
+4. post type: Feature Highlight Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Feature Highlight Posts,"""Gear up for your next adventure with SolarCharge! This portable solar panel is the perfect companion for any outdoor escapade, charging your devices on-the-go. And the best part? It's as tough as you are #AdventureGearCo #SolarCharge #PortablePower"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Comparison Posts,"""Blazer up, folks! Are you tired of looking like a try-hard in those bland, generic blazers? ClassicFit Blazers from FashionForward are here to save the day (and your wardrobe) - durable, stylish, and guaranteed to make you stand out from the crowd. #ClassicFitBlazers #FashionForward #ProfessionalPerfection"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Comparison Posts,"""Speed demons, assemble! Are you tired of sacrificing style for speed in your running shoes? Our RunFast Running Shoes are the game-changer you've been waiting for - designed for speed and comfort, so you can crush your goals in style! #FitLifeApparel #RunFast #RunningShoes #FitnessFashion"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Comparison Posts,"""Upgrade your sound game with PureSound Audio's PureTone Earbuds! Compare them to the competition and discover why audiophiles rave about their pure, unadulterated sound quality. Elevate your music experience with PureSound Audio - the choice of professionals and music lovers alike!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Comparison Posts,"""Upgrade your temperature control and upgrade the planet! Compare EcoSmart Thermostats from EcoTech Solutions to traditional thermostats and discover how you can save energy, reduce waste, and contribute to a sustainable future. #EcoTechSolutions #EcoSmartThermostats #SustainableLiving"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 1-3 sentences
+4. post type: Comparison Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Comparison Posts,"""Gear up for adventure with AdventureGear Co.! Compare our SolarCharge Portable Panel to those flimsy, low-voltage panels on the market. Our rugged, high-quality panel charges your devices faster and lasts longer in the wild - no need to sacrifice power for portability!"" #AdventureGear #SolarCharge #PortablePower"
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 1-3 sentences
+4. post type: Announcement Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Announcement Posts,"""Get ready to level up your workwear game! Introducing our new ClassicFit Blazers - the perfect blend of style and sophistication. From boardroom to brunch, these blazers are sure to make you the best-dressed person in the room #FashionForward #ClassicFit #ProfessionalPerfection"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 1-3 sentences
+4. post type: Announcement Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Announcement Posts,"""Get ready to crush your fitness goals with our latest drop! Introducing RunFast Running Shoes - the ultimate combo of speed and comfort. Say goodbye to slow and hello to fast with FitLife Apparel's latest innovation! #RunFast #FitLifeApparel #NewArrivals"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 1-3 sentences
+4. post type: Announcement Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Announcement Posts,"""Introducing PureTone Earbuds from PureSound Audio! Experience the purest sound quality that ignites your passion for music and elevates your audio experience. Join the revolution of sound with us! #PureSoundAudio #PureToneEarbuds #SoundRevolution"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 1-3 sentences
+4. post type: Announcement Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,1-3 sentences,Announcement Posts,"""Introducing EcoSmart Thermostats from EcoTech Solutions! Revolutionize your energy management with our cutting-edge, eco-friendly smart thermostats. Reduce your carbon footprint and save on energy costs - a brighter future starts here!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 1-3 sentences
+4. post type: Announcement Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,1-3 sentences,Announcement Posts,"""Adventure seekers, rejoice! We're thrilled to announce the latest addition to our arsenal of outdoor essentials: SolarCharge Portable Panel! This rugged little wonder lets you harness the power of the sun to charge your devices on-the-go, no matter where your next adventure takes you. #AdventureGear #SolarPower #OutdoorEssentials"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 4-6 sentences
+4. post type: Educational Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Educational Posts,"""Blazer Up, Buttercup! Are you tired of looking like a sloppy Sunday brunch attendee in your work attire? Introducing ClassicFit Blazers, the ultimate game-changer for your 9-to-5 style! With FashionForward's expertise, these blazers are not only stylish but also built to last. Whether you're a boss babe or a rising star, our ClassicFit Blazers will have you looking sharp, feeling confident, and ready to take on the world (or at least, your Monday morning meeting) #FashionForward #ClassicFitBlazers #WorkwearGoals"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 4-6 sentences
+4. post type: Educational Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Educational Posts,"""Get ready to take your runs to the next level with our RunFast Running Shoes! As the ultimate game-changers in the fitness industry, we know a thing or two about performance and style. Our shoes are designed to give you the speed and comfort you need to crush your fitness goals, while keeping you looking fresh and fierce. Say goodbye to blisters and hello to a faster you! #RunFast #FitLife #FitnessMotivation"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 4-6 sentences
+4. post type: Educational Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,4-6 sentences,Educational Posts,"""Unlock the full potential of your music with PureSound Audio's PureTone Earbuds! Since 2012, we've been dedicated to crafting high-quality audio equipment that elevates your listening experience. Our PureTone Earbuds are designed to deliver pure sound quality, undistorted and unfiltered, so you can immerse yourself in the music that moves you. Whether you're a music lover or a professional musician, experience the difference PureSound Audio can make. #PureSoundAudio #PureToneEarbuds #SoundQualityMatters"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 4-6 sentences
+4. post type: Educational Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,4-6 sentences,Educational Posts,"""Join the eco-revolution! At EcoTech Solutions, we're passionate about empowering businesses and governments to reduce their carbon footprint. That's why we're excited to introduce EcoSmart Thermostats - smart thermostats that optimize energy usage, saving you money and the planet. By choosing EcoSmart, you're not only reducing your energy bills, but also contributing to a more sustainable future. Make the switch today and be part of the solution! #EcoTechSolutions #Sustainability #SmartThermostats"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 4-6 sentences
+4. post type: Educational Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Educational Posts,"""Gear up for the great outdoors! At AdventureGear Co., we know that the best adventures are the ones that leave you breathless - not your phone. That's why we created the SolarCharge Portable Panel, the ultimate companion for your next escapade. This rugged little panel can charge your devices on-the-go, so you can stay connected without sacrificing your connection to nature. Trust us, your Instagram followers will thank you #AdventureGear #SolarCharge #GetOutside"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 4-6 sentences
+4. post type: Testimonial Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Testimonial Posts,"""Who says blazers are just for stuffy suits? Not us! Our ClassicFit Blazers are the perfect way to add a touch of sophistication to your everyday look. As one of our happy customers, Rachel, puts it: ""I've worn my ClassicFit Blazer to every job interview since I got it, and I've gotten the job every time! It's more than just a piece of clothing, it's a confidence booster"" Get ready to level up your professional wardrobe with FashionForward's ClassicFit Blazers! #FashionForward #ClassicFitBlazers #ProfessionalWear"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 4-6 sentences
+4. post type: Testimonial Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Testimonial Posts,"""I'm not saying I'm a running prodigy, but with FitLife Apparel's RunFast Running Shoes, I just ran my fastest 5K EVER! The cushioning is on point, the traction is insane, and the style is straight fire. I'm not just a fan, I'm a convert. FitLife Apparel's commitment to performance and fashion has got me hooked. #RunFast #FitLifeApparel #RunningShoes #FitnessClothing"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 4-6 sentences
+4. post type: Testimonial Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,4-6 sentences,Testimonial Posts,"""Life-changing sound starts with PureSound Audio! I've been using the PureTone Earbuds for a week now, and I'm blown away by the crystal-clear audio. As a music producer, I demand the best, and PureTone delivers. The sound is pure, unadulterated, and immersive - it's like being transported to the recording studio. I'm not just a fan, I'm a believer. Upgrade your listening experience with PureSound Audio #PureSoundAudio #PureToneEarbuds #AudiophileApproved"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 4-6 sentences
+4. post type: Testimonial Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,4-6 sentences,Testimonial Posts,"""I'm thrilled to share my experience with EcoTech Solutions' EcoSmart Thermostats! As a business owner, I was blown away by the impact it had on our energy consumption. With EcoSmart, we reduced our carbon footprint by 30% and saved thousands on our utility bills. The smart technology learns our schedule and preferences to optimize heating and cooling, making it easy to stay comfortable while doing our part for the planet. EcoTech Solutions is truly leading the way in environmental innovation - I'm grateful to be a part of their eco-friendly journey!"" #EcoTechSolutions #EcoSmartThermostats #GoGreen"
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 4-6 sentences
+4. post type: Testimonial Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Testimonial Posts,"""Sun, sand, and adventure - but not without a charged phone, am I right? That's why I swear by AdventureGear Co.'s SolarCharge Portable Panel! I've put it to the test on countless hikes and camping trips, and it's been a lifesaver (or should I say, a phone-saver?). Durable, easy to use, and compact - it's the perfect companion for any outdoor enthusiast. Trust me, your phone (and your sanity) will thank you!"" #AdventureGearCo #SolarCharge #PortablePower"
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 4-6 sentences
+4. post type: User-Generated Content Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,User-Generated Content Posts,"""Blazer goals alert! We're obsessing over our ClassicFit Blazers and we know you will too! Our customers are rocking these professional wear essentials and we're loving the results! From boardrooms to brunches, our blazers are the perfect addition to any outfit. Share your own ClassicFit Blazers style with us and tag @FashionForward for a chance to be featured! #ClassicFitBlazers #FashionForward #ProfessionalChic"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 4-6 sentences
+4. post type: User-Generated Content Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,User-Generated Content Posts,"""Sweat, smile, repeat! We're obsessed with our customers' love for our RunFast Running Shoes! Check out this amazing testimonial from @fitnessfrenzy: ""I've never felt so fast and comfortable on my runs! FitLife's RunFast shoes have taken my training to the next level. Highly recommend!"" Ready to take your runs to new heights? Try RunFast shoes and join the FitLife community! #FitLifeApparel #RunFast #FitnessCommunity"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 4-6 sentences
+4. post type: User-Generated Content Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,4-6 sentences,User-Generated Content Posts,"""Unlock the power of pure sound with PureSound Audio's latest innovation - PureTone Earbuds! As a proud user, I can attest that these earbuds deliver an unparalleled audio experience that elevates my daily commute to a symphony of joy. With PureTone Earbuds, I'm transported to a world of crystal-clear melodies and immersive soundscapes. Whether you're a music lover, a gamer, or a professional looking to elevate your audio experience, PureTone Earbuds are the perfect companion. #PureSoundAudio #PureToneEarbuds #AudiophileApproved"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 4-6 sentences
+4. post type: User-Generated Content Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,4-6 sentences,User-Generated Content Posts,"""Join the eco-revolution with EcoTech Solutions! We're thrilled to share a success story from our amazing customers who've made a real impact with our EcoSmart Thermostats! By optimizing energy usage, they've reduced their carbon footprint and saved thousands on their energy bills. ""I was blown away by the ease of use and the significant reduction in my energy consumption. It's amazing to think about the collective impact we can make when we work together towards a more sustainable future."" - Rachel, EcoSmart Thermostat user. Switch to EcoSmart today and join the movement towards a greener tomorrow!"" #EcoTechSolutions #EcoSmartThermostats #Sustainability #RenewableEnergy #GoGreen"
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 4-6 sentences
+4. post type: User-Generated Content Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,User-Generated Content Posts,"""Shoutout to our adventure-seeking friend @mountainmaven for sharing their SolarCharge Portable Panel review! This tiny titan of a panel can charge your devices on-the-go, even in the most rugged terrain. We're stoked to see it in action, keeping their gear powered up and their adventures lit! Get your own SolarCharge Portable Panel and join the charge - literally! #AdventureGearCo #SolarCharge #PortablePower #OutdoorAdventures"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Value Proposition Posts,"""Level up your office game with FashionForward's ClassicFit Blazers! We're not just talking about any blazer, folks - we're talking about a timeless, high-quality piece that'll make you the envy of the boardroom. With our ClassicFit Blazers, you'll exude confidence and professionalism, all while staying ahead of the fashion curve. And the best part? Our blazers are designed to fit you like a glove, so you can focus on crushing your goals, not adjusting your sleeves. Get ready to make a statement with FashionForward!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Value Proposition Posts,"""Kicking it up a notch! Introducing RunFast Running Shoes from FitLife Apparel - where speed meets comfort! Our shoes are designed to keep up with your active lifestyle, with advanced technology and trendy designs that'll make you feel like a pro. Whether you're a seasoned runner or just starting out, RunFast has got you covered. Get ready to take your fitness game to the next level! #RunFast #FitLifeApparel #RunningShoes #FitnessMotivation"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,4-6 sentences,Value Proposition Posts,"""Unlock the full potential of your music with PureSound Audio's PureTone Earbuds! Since 2012, we've been dedicated to crafting high-quality audio equipment for audiophiles and professionals. Our earbuds are designed to deliver pure sound quality, just as the artist intended. With PureTone Earbuds, you'll experience richer tones, more detailed instrumentation, and a deeper connection to your music. Join the PureSound Audio community and discover a new world of sound!"" #PureSoundAudio #PureToneEarbuds #SoundQualityMatters"
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,4-6 sentences,Value Proposition Posts,"""Join the eco-revolution with EcoTech Solutions! Introducing EcoSmart Thermostats, the smart thermostats that optimize energy usage and help reduce your carbon footprint. With EcoSmart, you'll not only save energy, but also reduce your bills and contribute to a more sustainable future. Founded in 2005, EcoTech Solutions has been leading innovation in environmental technology - now it's your turn to join the movement. #EcoTechSolutions #EcoSmartThermostats #Sustainability #GoGreen"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 4-6 sentences
+4. post type: Value Proposition Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,4-6 sentences,Value Proposition Posts,"""Ready to leave the grid behind? Introducing the SolarCharge Portable Panel from AdventureGear Co.! This lightweight, rugged powerhouse charges your devices on-the-go, so you can keep exploring without a care. With AdventureGear's commitment to quality and durability, you can trust this panel to keep up with your toughest adventures. #AdventureGear #SolarCharge #OffTheGrid"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 7+ sentences
+4. post type: Storytelling Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,7+ sentences,Storytelling Posts,"""Get ready to level up your professional game with our ClassicFit Blazers! At FashionForward, we know that a great blazer can make all the difference in a room (or a boardroom). That's why we've crafted our ClassicFit Blazers with the perfect blend of style and substance. Made from the highest-quality materials and designed to fit like a glove, these blazers are the ultimate addition to any professional's wardrobe. And the best part? They're designed to stand the test of time - no fast fashion here! Whether you're crushing it in the corporate world or just want to look and feel like a boss, our ClassicFit Blazers have got you covered. So why wait? Get ready to make a statement with FashionForward!"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 7+ sentences
+4. post type: Storytelling Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,7+ sentences,Storytelling Posts,"""Ready, set, RUN! You've got the motivation, but what's holding you back? Are you tired of sacrificing style for speed or comfort for performance? Introducing RunFast Running Shoes from FitLife Apparel - the game-changer you've been waiting for! With advanced fabric technology and sleek designs, these shoes will have you breaking records and turning heads. Plus, they're built for comfort, so you can focus on your goal: crushing your personal best. Join the FitLife community and experience the thrill of running like never before. #RunFast #FitLifeApparel #RunningShoes #FitnessMotivation"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 7+ sentences
+4. post type: Storytelling Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,7+ sentences,Storytelling Posts,"""Unlock the Power of Pure Sound
+
+As an audiophile, you know that music is more than just a collection of sounds. It's an emotional experience that can transport you to another world. That's why we created PureTone Earbuds - to help you unlock the true potential of your music.
+
+With PureTone Earbuds, you'll experience sound like never before. Our proprietary technology ensures that every note, every beat, and every melody is reproduced with unparalleled clarity and precision. Whether you're a music lover, a musician, or a sound engineer, PureTone Earbuds will revolutionize the way you experience music.
+
+But it's not just about the sound quality - it's about the connection. When you listen to music with PureTone Earbuds, you'll feel like you're right there in the recording studio, surrounded by the artists who created the music. It's an immersive experience that will leave you breathless.
+
+Join the PureSound Audio community and discover a world of pure sound. Try PureTone Earbuds today and unlock the power of music in a way you never thought possible. #PureSoundAudio #PureToneEarbuds #SoundRevolution"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 7+ sentences
+4. post type: Storytelling Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,7+ sentences,Storytelling Posts,"""Imagine a world where energy efficiency meets innovation. At EcoTech Solutions, we're passionate about empowering businesses and governments to reduce their carbon footprint. That's why we're thrilled to introduce our latest game-changer: EcoSmart Thermostats! These intelligent thermostats optimize energy usage, ensuring you're saving resources and reducing waste. But it's not just about the numbers - it's about creating a brighter future for our planet. With EcoSmart, you'll be joining a community of like-minded individuals who share our vision for a more sustainable tomorrow. So why wait? Upgrade to EcoSmart Thermostats today and start making a difference! #EcoSmart #Sustainability #Innovation"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 7+ sentences
+4. post type: Storytelling Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,7+ sentences,Storytelling Posts,"""Sun's out, adventure's on! As an adventurer, you know that the great outdoors can be unforgiving. That's why you need gear that's as tough as you are. Introducing the SolarCharge Portable Panel from AdventureGear Co. - the ultimate companion for your next escapade! This rugged little panel can charge your devices in no time, so you can keep capturing those Instagram-worthy moments (or sending SOS signals, we won't judge). With AdventureGear Co.'s reputation for durability and innovation, you can trust this solar panel to keep up with your active lifestyle. Whether you're a hiker, camper, or climber, the SolarCharge Portable Panel is the perfect addition to your adventure arsenal. Get ready to charge forward with AdventureGear Co.! #AdventureGearCo #SolarCharge #PortablePower #OutdoorAdventures"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FashionForward offers trendy, high-quality clothing and accessories for fashion-conscious individuals. Their products range from dresses and jeans to handbags and footwear, combining style with durability. Founded in 2014, they have become a leading name in the global fashion industry.
+2. product: ClassicFit Blazers: Classic blazers for professional wear.
+3. post length: 7+ sentences
+4. post type: Interactive Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,7+ sentences,Interactive Posts,"Get ready to level up your professional game!
+
+Calling all fashionistas! We're thrilled to introduce our latest obsession: ClassicFit Blazers! These stunning blazers are not just a statement piece, but a game-changer for your workwear wardrobe. With FashionForward's ClassicFit Blazers, you'll be the epitome of elegance and sophistication, whether you're crushing it in the boardroom or closing deals on the go!
+
+But don't just take our word for it! Share with us your favorite way to style a blazer in the comments below! Do you like to keep it classic and simple, or do you prefer to add a pop of personality with a bold accessory? Let's get this blazer party started!
+
+Stay ahead of the fashion curve with FashionForward - the ultimate destination for trendsetters and fashionistas alike! #ClassicFitBlazers #FashionForward #ProfessionalChic #WorkwearGoals #BlazerLove"
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: FitLife Apparel provides stylish and high-performance fitness clothing and accessories. Their products combine advanced fabric technology with trendy designs to support an active lifestyle. Founded in 2012, they have grown into a trusted brand in the fitness industry.
+2. product: RunFast Running Shoes: Running shoes designed for speed and comfort.
+3. post length: 7+ sentences
+4. post type: Interactive Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,7+ sentences,Interactive Posts,"GET READY TO SPRINT INTO THE FAST LANE!
+
+Hey fitness fam! Are you tired of sacrificing style for performance (or vice versa)? Well, we've got the solution for you! Introducing RunFast Running Shoes, the ultimate combo of speed and comfort from FitLife Apparel!
+
+These babies are designed to help you crush your fitness goals while looking like a total boss. With advanced fabric technology and trendy designs, you'll be the envy of every gym rat out there.
+
+But don't just take our word for it! Try them out and experience the thrill of running faster, farther, and stronger than ever before!
+
+Ready to level up your fitness game? Click the link in our bio to get your hands on RunFast Running Shoes and start sprinting your way to success!
+
+#RunFast #FitLifeApparel #RunningShoes #FitnessMotivation #SweatSquad"
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: PureSound Audio creates high-quality audio equipment, including speakers, headphones, and audio players. Their products are designed for audiophiles and professionals who demand superior sound quality. Since 2012, they have become a respected name in the audio equipment industry.
+2. product: PureTone Earbuds: Earbuds with pure sound quality.
+3. post length: 7+ sentences
+4. post type: Interactive Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,7+ sentences,Interactive Posts,"""Unlock the Power of PureSound!
+
+As an audiophile, you know that the right equipment can elevate your listening experience to new heights. That's why we're thrilled to introduce PureTone Earbuds, the latest innovation from PureSound Audio!
+
+These earbuds are designed to deliver pure sound quality, just like the professionals demand. With crystal-clear highs and rich, full-bodied lows, you'll feel like you're right there in the recording studio.
+
+But don't just take our word for it! Try PureTone Earbuds for yourself and discover a whole new world of sound.
+
+Which music genre do you crave the most? Share with us in the comments below and we'll give you a special surprise!
+
+#PureSoundAudio #PureToneEarbuds #AudiophileApproved #SoundQualityMatters"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: EcoTech Solutions provides eco-friendly technology products aimed at helping businesses and governments reduce their carbon footprint. Their offerings include solar panels, water filtration systems, and sustainable building materials. Founded in 2005, they are known for leading innovation in environmental technology.
+2. product: EcoSmart Thermostats: Smart thermostats that optimize energy usage.
+3. post length: 7+ sentences
+4. post type: Interactive Posts
+5. post tone: Inspirational
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Inspirational,7+ sentences,Interactive Posts,"""Join the revolution to a cleaner, brighter future!
+
+At EcoTech Solutions, we're passionate about empowering businesses and governments to reduce their carbon footprint. And that's why we're excited to introduce our latest innovation: EcoSmart Thermostats!
+
+These smart thermostats optimize energy usage, ensuring you use only what you need, when you need it. Say goodbye to energy waste and hello to a more sustainable tomorrow!
+
+But don't just take our word for it! Share with us how you're already making a difference in your community and we'll feature your story on our page!
+
+Ready to join the eco-revolution? Click the link below to learn more about EcoSmart Thermostats and start reducing your carbon footprint today! [link]
+
+#EcoTechSolutions #EcoSmartThermostats #Sustainability #RenewableEnergy #GreenTech"""
+You are an expert sales copywriting assistant for social media who understands the attention economy and modern digital advertisment.,"Write me a sales post for my company's product with the following characterisitics:
+1. company description: AdventureGear Co. sells durable and innovative outdoor gear, including hiking boots, camping tents, and climbing equipment. Their products are designed for adventure enthusiasts who need reliable gear for tough conditions. Founded in 2010, they are known for their rugged and high-quality outdoor equipment.
+2. product: SolarCharge Portable Panel: Portable solar panel for charging devices.
+3. post length: 7+ sentences
+4. post type: Interactive Posts
+5. post tone: Witty
+
+Your output MUST be ONLY the social media post with NO additional information, text, commentary or anything extra.",Witty,7+ sentences,Interactive Posts,"""Get ready to power up your next adventure!
+
+Calling all outdoor enthusiasts! We know you're always on the go, and that means your devices need a reliable source of energy. That's where our SolarCharge Portable Panel comes in!
+
+This lightweight, rugged, and waterproof panel can charge your phone, camera, or other devices on-the-go. And with its compact design, you can take it anywhere - from summiting mountains to camping in the wilderness.
+
+But don't just take our word for it! Try it out for yourself and experience the freedom to adventure, uninterrupted.
+
+Ready to give it a go? Click the link in our bio to get your SolarCharge Portable Panel and start charging your way to the next great adventure! #AdventureGearCo #SolarCharge #PortablePower #OutdoorAdventures"""
