@@ -22,18 +22,18 @@
 - [🎯 Conclusion](#-conclusion)
 
 ## 📝 Project Overview
-This project aims to create a repeatable framework for fine-tuning **LLaMA 3 8B** on specialized tasks using **synthetic datasets**. The goal is to enable businesses to fine-tune open-source models for specific use cases without compromising data privacy. 
+This project aims to create a repeatable framework for fine-tuning **LLaMA 3 8B** on specialized tasks using **synthetic datasets**. The goal is to enable businesses to fine-tune open-source models for specific use cases without compromising data privacy.
 
-For this project, the task was generating **social media posts** for sales content, taking into account:
-- Post types (e.g., promotional, educational)
-- Post lengths
-- Tones (e.g., professional, enthusiastic)
+For this project, the task was generating **social media posts** for sales content by adhering to:
 
-By fine-tuning models on these parameters, the goal was to create models that generate high-quality social media content without needing detailed prompts.
+- **Universal Criteria**: Guidelines applicable to all posts, such as using strong calls to action, capturing attention quickly, and highlighting unique selling points.
+- **Post Type-Specific Criteria**: Specific guidelines for each type of post (e.g., promotional, educational), focusing on the content and style unique to each category.
+
+By fine-tuning models based on these criteria, the goal was to create models that generate high-quality social media content that aligns with both general and specific marketing strategies, without needing detailed prompts.
 
 ## 🎯 Objectives
-- **Main Goal**: Develop a repeatable process to fine-tune large language models like LLaMA 3 8B for specific tasks using **synthetic data**.
-- **Business Use Case**: Automate the generation of social media posts in the style and tone of a business, reducing the need for manual prompt engineering.
+- **Main Goal**: Develop a repeatable process to fine-tune large language models like LLaMA 3 8B for specific tasks using **synthetic data**, focusing on implementing both universal and post-specific criteria in content generation.
+- **Business Use Case**: Automate the generation of social media posts that adhere to a company's marketing guidelines and strategies, reducing the need for manual prompt engineering while ensuring consistency and effectiveness in messaging.
 
 ## 📊 Methods
 1. **Dataset Creation**:
