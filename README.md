@@ -2,7 +2,6 @@
 
 **Author**: Benito Infantino  
 **Date**: August 2024  
-**Course**: Advanced Applied Machine Learning, Master's in AI
 
 ## 📚 Table of Contents
 - [📝 Project Overview](#-project-overview)
